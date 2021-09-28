@@ -5,7 +5,7 @@
 - 📫 How to reach me alexandrmakhov45@gmail.com
 ----------------------------------------------------------------------------
 
--Trail [Trail web site](https://alexander-makhov.github.io/trail/)
+- Web site woocomerce - [Trail](https://alexander-makhov.github.io/trail/)
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
