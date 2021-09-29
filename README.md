@@ -14,8 +14,11 @@
 
 ________________________________________________________________________________________________
 
-- :computer: **Web Site** 
-  - **Woocomerce Template** - **_[Trail](https://alexander-makhov.github.io/trail/) Html5/Css3/Javascript_**
+- :computer: **Website** 
+  - **Woocomerce Template** - **Trail**<br>
+      **Stack:** <i>Html5/Css3/Javascript</i><br>
+      [<img src="https://alexander-makhov.github.io/trail/images/trail-home.jpg" alt="trail" width="150">](https://alexander-makhov.github.io/trail/)
+      
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
