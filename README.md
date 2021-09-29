@@ -14,7 +14,8 @@
 
 ________________________________________________________________________________________________
 
-- Web Site Woocomerce HTML5/CSS3/JS Template - [Trail](https://alexander-makhov.github.io/trail/)
+- :computer: **Web Site** 
+  - **Woocomerce Template** - **_[Trail](https://alexander-makhov.github.io/trail/) Html5/Css3/Javascript_**
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
