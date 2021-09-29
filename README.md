@@ -15,8 +15,9 @@
 ________________________________________________________________________________________________
 
 - :computer: **Website** 
-  - **Woocomerce Template** - **Trail**<br>
-      **Stack:** <i>Html5/Css3/Javascript</i><br>
+  - Woocomerce Template: <i>**Trail**</i><br>
+      Stack: <i>**Html5/Css3/Javascript**</i><br>
+      **Responsive layout**<br>
       [<img src="https://alexander-makhov.github.io/trail/images/trail-home.jpg" alt="trail" width="150">](https://alexander-makhov.github.io/trail/)
       
 <!---
