@@ -16,9 +16,14 @@ ________________________________________________________________________________
 
 - :computer: **Website** 
   - Woocomerce Template: <i>**Trail**</i><br>
-      Stack: <i>**Html5/Css3/Javascript**</i><br>
+      Stack: <i>**Html5/Css3/Javascript/Webpack**</i><br>
       **Responsive layout**<br>
       [<img src="https://github.com/Alexander-Makhov/trail/blob/main/images/trail-home.jpg" alt="trail" width="150">](https://alexander-makhov.github.io/trail/)
+      
+- :computer: **React App** 
+  - Template: <i>**Currency Exchange Rate App**</i><br>
+      Stack: <i>**Html5/Css3/Ract JS/Webpack**</i><br>      
+      [<img src="https://github.com/Alexander-Makhov/currency-convertor-app.static/thunbnails.jpg" alt="trail" width="150">](https://alexander-makhov.github.io/currency-convertor-app.static/)
       
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
