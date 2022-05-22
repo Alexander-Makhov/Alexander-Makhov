@@ -5,7 +5,7 @@
 - 📫 How to reach me alexandrmakhov45@gmail.com
 ----------------------------------------------------------------------------
 - :mechanical_arm: **Stack of technologies:** 
-  - _Html5, Css3, Sass, Scss, jQuery, Javascript, ES6, Ajax_
+  - _Html5, Css3, Sass, Scss, jQuery, Javascript, React JS, ES6, Ajax_
   - _responsive layout for mobile devices_
 - **builders:** _Webpack ( deverlopment / production )_
 - **CMS:** _Wordpress_
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 - :computer: **React App** 
   - Template: <i>**Currency Exchange Rate App**</i><br>
       Stack: <i>**Html5/Css3/Ract JS/Webpack**</i><br>      
-      [<img src="https://github.com/Alexander-Makhov/currency-convertor-app.static/thunbnails.jpg" alt="trail" width="150">](https://alexander-makhov.github.io/currency-convertor-app.static/)
+      [<img src="https://github.com/Alexander-Makhov/currency-convertor-app.static/thunbnails.jpg" alt="trail" width="250">](https://alexander-makhov.github.io/currency-convertor-app.static/)
       
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
