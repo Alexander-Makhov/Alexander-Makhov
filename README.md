@@ -23,7 +23,12 @@ ________________________________________________________________________________
 - :computer: **React App** 
   - Template: <i>**Currency Exchange Rate App**</i><br>
       Stack: <i>**Html5/Css3/Ract JS/Webpack**</i><br>      
-      [<img src="https://github.com/Alexander-Makhov/currency-convertor-app.static/blob/main/images/thunbnails.jpg" alt="trail" width="250">](https://alexander-makhov.github.io/currency-convertor-app.static/)
+      [<img src="https://github.com/Alexander-Makhov/currency-convertor-app.static/blob/main/images/thunbnails.jpg" alt="Currency Exchange Rate App" width="250">](https://alexander-makhov.github.io/currency-convertor-app.static/)
+      
+- :computer: **React App** 
+  - Template: <i>**List of files sorted App**</i><br>
+      Stack: <i>**Html5/Css3/Ract JS/Webpack**</i><br>      
+      [<img src="https://github.com/Alexander-Makhov/list-of-files-sorted.static/blob/main/images/thumbnails.jpg" alt="List of files sorted App" width="250">](https://alexander-makhov.github.io/currency-convertor-app.static/)
       
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
