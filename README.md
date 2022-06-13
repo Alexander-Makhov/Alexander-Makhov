@@ -28,7 +28,7 @@ ________________________________________________________________________________
 - :computer: **React App** 
   - Template: <i>**List of files sorted App**</i><br>
       Stack: <i>**Html5/Css3/Ract JS/Webpack**</i><br>      
-      [<img src="https://github.com/Alexander-Makhov/list-of-files-sorted.static/blob/main/images/thumbnails.jpg" alt="List of files sorted App" width="250">](https://alexander-makhov.github.io/list-of-files-sorted.static/)
+      [<img src="https://github.com/Alexander-Makhov/list-of-files-sorted.static/blob/main/assets/images/thumbnails.jpg" alt="List of files sorted App" width="250">](https://alexander-makhov.github.io/list-of-files-sorted.static/)
       
 <!---
 Alexander-Makhov/Alexander-Makhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
