@@ -1,7 +1,7 @@
 <!-- - 🌱 I’m currently learning now i'm deepening my skills in vue js -->
 - 👋 Hi, I’m Alexander Makhov
 - 👀 I’m interested in WordPress themes developer and front end development
-- 💞️ I’m looking to collaborate on a project with a team.
+- 👨‍💻 I’m looking to collaborate on a project with a team.
 - 📫 How to reach me alexandrmakhov45@gmail.com
 - <a href="https://freelancehunt.com/freelancer/Alex_ScDev.html?from=shield&r=oDowA" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1227534/type/rating?style=flat&amp;lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
 ----------------------------------------------------------------------------
